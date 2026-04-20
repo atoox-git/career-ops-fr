@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.6.0](https://github.com/atoox-git/career-ops-fr/compare/v1.5.0...v1.6.0) (2026-04-20)
+
+
+### Features
+
+* add Gemini CLI native integration and evaluator script  ([#349](https://github.com/atoox-git/career-ops-fr/issues/349)) ([0853486](https://github.com/atoox-git/career-ops-fr/commit/0853486d2c01a35adafea2cc6b6d8c429b843588))
+* add Gemini CLI native integration and evaluator script (closes [#344](https://github.com/atoox-git/career-ops-fr/issues/344)) ([0853486](https://github.com/atoox-git/career-ops-fr/commit/0853486d2c01a35adafea2cc6b6d8c429b843588))
+* add LaTeX/Overleaf CV export mode with pdflatex compilation ([#362](https://github.com/atoox-git/career-ops-fr/issues/362)) ([b824953](https://github.com/atoox-git/career-ops-fr/commit/b824953d0e3b7f8c6105dfcce7e17257c95ce6cd))
+* add LaTeX/Overleaf CV export mode with pdflatex compilation (closes [#47](https://github.com/atoox-git/career-ops-fr/issues/47)) ([b824953](https://github.com/atoox-git/career-ops-fr/commit/b824953d0e3b7f8c6105dfcce7e17257c95ce6cd))
+* **fr:** adaptation produit FR — archétypes, portails, lettre-motivation, CV, exemples ([98fec43](https://github.com/atoox-git/career-ops-fr/commit/98fec438317a0e0557dd564caeda4836fd07b93e))
+* **fr:** intégration France Travail API + adapters Playwright tier 2 ([d1dcf7c](https://github.com/atoox-git/career-ops-fr/commit/d1dcf7cb738bc2e021ff01b2914e55dfd752b3c6))
+
+
+### Bug Fixes
+
+* **ci:** gracefully handle missing dependency graph in dependency-review ([#343](https://github.com/atoox-git/career-ops-fr/issues/343)) ([7c5fecb](https://github.com/atoox-git/career-ops-fr/commit/7c5fecb00d60521f77b33724eb345a28257d8832))
+* **ci:** gracefully handle missing dependency graph in dependency-review workflow ([#352](https://github.com/atoox-git/career-ops-fr/issues/352)) ([7c5fecb](https://github.com/atoox-git/career-ops-fr/commit/7c5fecb00d60521f77b33724eb345a28257d8832))
+* **pt:** restore diacritical marks in PT-BR modes ([#358](https://github.com/atoox-git/career-ops-fr/issues/358)) ([3a4c596](https://github.com/atoox-git/career-ops-fr/commit/3a4c596cb0a522f562ba38b35c210facaf38a503))
+* **pt:** restore diacritical marks in PT-BR modes ([#359](https://github.com/atoox-git/career-ops-fr/issues/359)) ([3a4c596](https://github.com/atoox-git/career-ops-fr/commit/3a4c596cb0a522f562ba38b35c210facaf38a503))
+
 ## [1.5.0](https://github.com/santifer/career-ops/compare/v1.4.0...v1.5.0) (2026-04-14)
 
 
